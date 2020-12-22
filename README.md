@@ -66,4 +66,4 @@ And type **-cmd <name command>** For show more info in command
 <p> https://discord.gg/4p88fmqZqm </p>
 </p>
 <h1> SCREENSHOT </h1>
-<img src="https://cdn.discordapp.com/attachments/785628573821173771/791074960638476288/screenshot.png" />
+<img src="https://cdn.discordapp.com/attachments/785628573821173771/791075394232254464/image0.png" />
