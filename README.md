@@ -1,4 +1,4 @@
-<a href="https://cro.crozebot.gq/"><h1>CROZE BOT</h1></a>
+<a href="https://www.croze.gq/"><h1>CROZE BOT</h1></a>
 <br>
 <p>
 Croze is bot simple using (dashboard)
@@ -25,7 +25,7 @@ THIS COMMANDS CAN BE MANAGE ONLY IN DASHBOARD
          @- CHOSE SUPPORT ROLE IN DASHBOARD
 <img src="https://cdn.discordapp.com/attachments/785628573821173771/791074960638476288/screenshot.png" alt="Stats bot" />
 </p>
-<a href="https://cro.crozebot.gq/commands"><h3> HOW TO USE :<h3></a>
+<a href="https://www.croze.gq/commands"><h3> HOW TO USE :<h3></a>
 If you want use bot 
 
 > 1️⃣ Type **-help** For show Help (dashboard link - Invite link - support link)
@@ -57,9 +57,9 @@ And type **-cmd <name command>** For show more info in command
 <h4> OUR LINK's :</h4>
 <p>
 
-<a href="https://cro.crozebot.gq/dashboard"><i class=""></i> Dashboard</a>
-<a href="https://cro.crozebot.gq/stats"><i class=""></i> STATISTICS BOT</a>
-<a href="https://cro.crozebot.gq/commands"><i class=""></i> ALL COMMANDS (INFO)</a>
+<a href="https://www.croze.gq/dashboard"><i class=""></i> Dashboard</a>
+<a href="https://www.croze.gq/stats"><i class=""></i> STATISTICS BOT</a>
+<a href="https://www.croze.gq/commands"><i class=""></i> ALL COMMANDS (INFO)</a>
 <h1>INVITE LINK :</h1>
 <p> https://discord.com/api/oauth2/authorize?client_id=732783981447086116&permissions=2081422583&scope=bot</p>
 <h1>SUPPORT SERVER :</h1>
