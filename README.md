@@ -42,7 +42,8 @@ And type **-cmd <name command>** For show more info in command
 > 6️⃣  **-inv** send a link’s for invite bot: <br>1- link no perms(just testing bot)<br>2- Link with All perms bot 
 (MANAGE_SERVER..ect)
 <h5> INFORMATION :</h5>
-<p>
+<p><br  /><br>
+       
 • LANGUAGE USING : JavaScript<br>
 • LIBRARY COMMANDS : DISCORD.JS<br>
 • LIBRARY DASHBOARD : EJS<br>
